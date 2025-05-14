@@ -83,8 +83,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-
-![](img/msqueue.png)
+![image](https://github.com/user-attachments/assets/8681abf4-35be-44fa-b3a8-6a2298b6cbba)
 
 
 # RESULT:
